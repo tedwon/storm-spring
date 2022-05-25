@@ -14,7 +14,7 @@
     <description>Implementation for defining Storm topologies in spring xml</description>
 
     <properties>
-        <springframework.version>3.1.1.RELEASE</springframework.version>
+        <springframework.version>5.2.22.RELEASE</springframework.version>
         <storm.version>0.8.1</storm.version>
     </properties>
 
